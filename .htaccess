@@ -1,0 +1,31 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+    #RewriteRule index.html index.php
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	
+	RewriteRule ^m$ yingshi/m.php
+	RewriteRule ^tv$ yingshi/tv.php	
+	RewriteRule ^ct$ yingshi/ct.php	
+	RewriteRule ^va$ yingshi/va.php	
+	
+	RewriteRule ^m/([a-zA-Z0-9]*)\.html$ yingshi/play.php?type=m&id=$1
+	RewriteRule ^tv/([a-zA-Z0-9]*)\.html$ yingshi/play.php?type=tv&id=$1
+	RewriteRule ^ct/([a-zA-Z0-9]*)\.html$ yingshi/play.php?type=ct&id=$1
+	RewriteRule ^va/([a-zA-Z0-9]*)\.html$ yingshi/play.php?type=va&id=$1
+
+
+	RewriteRule ^zy(.*?)$ yingshi/zy/$1
+	RewriteRule ^mg(.*?)$ yingshi/mg/$1
+	RewriteRule ^2mm(.*?)$ yingshi/2mm/$1
+	RewriteRule ^lsp(.*?)$ yingshi/lishipin/$1
+	RewriteRule ^lishipin(.*?)$ yingshi/lishipin/$1
+    #搜索
+	RewriteRule ^so=(.*?)\.html$ so.php?so=$1
+	RewriteRule ^so=(.*?)$ so.php?so=$1
+	
+
+	
+	ErrorDocument 403 /403.html
+	ErrorDocument 404 /404.html
+</IfModule>

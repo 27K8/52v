@@ -1,0 +1,51 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="320" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<link href="/dandelion.css" media="screen" rel="stylesheet" type="text/css" />
+	<title>403错误页面</title>
+</head>
+<body>
+<div class="fluid" id="da-wrapper">
+<div id="da-content">
+<div class="da-container clearfix">
+<div id="da-error-wrapper">
+<div id="da-error-pin"></div>
+
+<div id="da-error-code">error <span>403</span></div>
+
+<h1 class="da-error-heading">您没有权限访问<script>document.write(window.location.pathname);</script>本站,有可能是下面情况</h1>
+
+<h1 class="da-error-heading">1.可能站长还没有上传文件<br> 2.可能没权限</h1>
+
+<p>大家可以到首页别的地方看看！</p>
+
+<p><a href="/">点击进入首页</a></p>
+
+
+
+<h1>你当前面的IP 地址<script src="http://pv.sohu.com/cityjson?ie=utf-8"></script> 
+<font id="ip" size="5"></font></h1>
+
+
+</div>
+</div>
+</div>
+
+
+<div id="da-footer">
+<div class="da-container clearfix">
+<p><a href="http://www.52v.xyz/" target="_blank">52V影视</a> &nbsp; &nbsp;<a href="http://52v.xyz/" target="_blank">52V影视</a></p>
+</div>
+</div>
+
+</div>
+</body>
+<script type="text/javascript">
+(function ip() {
+var str=returnCitySN["cip"]+','+returnCitySN["cname"];
+var _result=document.getElementById("ip");
+_result.innerHTML = str;
+})();
+</script>
+</html>
