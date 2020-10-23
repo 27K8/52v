@@ -1,0 +1,35 @@
+{@mc      新加坡亚洲新闻 | @dzhttp://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8|
+@mc      美國中文台 | @dzhttp://ec.sinovision.net/video/ts/lv.m3u8|
+@mc      美东频道 | @dzhttp://174.127.67.246/live330/playlist.m3u8|
+@mc      英国天空新闻台 | @dzhttp://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8| 
+@mc        生島涼 | @dzhttp://ginocdn.bybzj.com:8092/wuma/20180101/hd_heyzo-1595/650kb/hls/index.m3u8|
+@mc      这呻吟 | @dzhttp://video.jiagew762.com:8091/20180113/NNlVVDeQ/index.m3u8| 
+@mc      星川忧香 | @dzhttp://video.feimanzb.com:8091/20171201/PSR7JKW531/550kb/hls/index.m3u8| 
+@mc    川上奈々美 | @dzhttp://video1.feimanzb.com:8091/20171215/RBD-756-C/550kb/hls/index.m3u8| 
+@mc      藤原沙耶 | @dzhttp://video.feimanzb.com:8091/20171201/YJL1HKET084/550kb/hls/index.m3u8| }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+if (!-f $request_filename){
+	set $rule_0 1$rule_0;
+}
+if (!-d $request_filename){
+	set $rule_0 2$rule_0;
+}
+if ($rule_0 = "21"){
+	rewrite ^/m$ /yingshi/m.php;
+}
+	rewrite ^/tv$ /yingshi/tv.php;
+	rewrite ^/ct$ /yingshi/ct.php;
+	rewrite ^/va$ /yingshi/va.php;
+	rewrite ^/m/([a-zA-Z0-9]*)\.html$ /yingshi/play.php?type=m&id=$1;
+	rewrite ^/tv/([a-zA-Z0-9]*)\.html$ /yingshi/play.php?type=tv&id=$1;
+	rewrite ^/ct/([a-zA-Z0-9]*)\.html$ /yingshi/play.php?type=ct&id=$1;
+	rewrite ^/va/([a-zA-Z0-9]*)\.html$ /yingshi/play.php?type=va&id=$1;
+	rewrite ^/zy(.*?)$ /yingshi/zy/$1;
+	rewrite ^/mg(.*?)$ /yingshi/mg/$1;
+	rewrite ^/2mm(.*?)$ /yingshi/2mm/$1;
+	rewrite ^/lsp(.*?)$ /yingshi/lishipin/$1;
+	rewrite ^/lishipin(.*?)$ /yingshi/lishipin/$1;
+	rewrite ^/so=(.*?)\.html$ /so.php?so=$1;
+	rewrite ^/so=(.*?)$ /so.php?so=$1;

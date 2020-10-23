@@ -1,0 +1,8 @@
+{@mc      CCTV14少儿 | @dzhttp://183.252.176.66//PLTV/88888888/224/3221225922/index.m3u8|
+@mc      动漫秀场 | @dzhttp://azure3a-live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_sqnsnpoc_keyE198F63AB3AE34AB1098776A98D2F421D50A36E8D21B463C00CA2F942A257F56_/live/dmxchd/2300000/d1.m3u8|
+@mc      炫动卡通卫视 | @dzhttp://183.207.249.14/PLTV/3/224/3221225694/index.m3u8|
+@mc      动画王国 | @dzhttp://183.207.249.15/PLTV/3/224/3221225555/index.m3u8| 
+@mc      甘肃-少儿 | @dzhttp://stream.gstv.com.cn/sepd/hd/live.m3u8|
+@mc      河北-少儿 | @dzhttp://weblive.hebtv.com/live/hbse_bq/index.m3u8|
+@mc      黑龙江-少儿 | @dzhttp://223.99.186.111:8089/PLTV/88888888/224/3221225616/3.m3u8| 
+@mc      山东-少儿 | @dzhttp://223.110.245.150/PLTV/3/224/3221227204/index.m3u8| }

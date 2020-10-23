@@ -1,0 +1,11 @@
+{@mc      超级电影 | @dzhttp://183.252.176.50//PLTV/88888888/224/3221225926/index.m3u8|
+@mc      喜剧电影 | @dzhttp://183.207.249.12/PLTV/3/224/3221225525/index.m3u8|
+@mc      动画王国 | @dzhttp://183.207.249.15/PLTV/3/224/3221225555/index.m3u8|
+@mc      动作电影 | @dzhttp://183.207.249.10/PLTV/3/224/3221225529/index.m3u8| 
+@mc      精品电影 | @dzhttp://183.207.249.14/PLTV/3/224/3221225567/index.m3u8|
+@mc      中国功夫 | @dzhttp://223.110.245.171/PLTV/3/224/3221226935/index.m3u8|
+@mc      明星大片 | @dzhttp://183.207.249.14/PLTV/3/224/3221225535/index.m3u8| 
+@mc      甘肃-影视 | @dzhttp://stream.gstv.com.cn/whys/hd/live.m3u8|
+@mc      河北-影视 | @dzhttp://weblive.hebtv.com/live/hbys_bq/index.m3u8| 
+@mc      黑龙江-影视 | @dzhttp://stream2.hljtv.com/hljys/sd/live.m3u8| 
+@mc      山东-影视 | @dzhttp://223.99.186.111:8089/PLTV/88888888/224/3221225613/3.m3u8|  }

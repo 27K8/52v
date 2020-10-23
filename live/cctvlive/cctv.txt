@@ -1,0 +1,15 @@
+{@mc      CCTV-1 | @dzhttp://183.252.176.66//PLTV/88888888/224/3221225922/index.m3u8|
+@mc      CCTV-2 | @dzhttp://183.252.176.47//PLTV/88888888/224/3221225923/index.m3u8|
+@mc      CCTV-3 | @dzhttp://223.110.243.150/PLTV/3/224/3221225588/index.m3u8|
+@mc      CCTV-4 | @dzhttp://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8| 
+@mc      CCTV-5 | @dzhttp://223.110.245.136/PLTV/3/224/3221227166/index.m3u8|
+@mc      CCTV-6 | @dzhttp://223.110.245.172/PLTV/3/224/3221225548/index.m3u8|
+@mc      CCTV-7 | @dzhttp://183.252.176.60//PLTV/88888888/224/3221225927/index.m3u8| 
+@mc      CCTV-8 | @dzhttp://223.110.245.150/PLTV/3/224/3221227204/index.m3u8|
+@mc      CCTV-9 | @dzhttp://183.252.176.36//PLTV/88888888/224/3221225929/index.m3u8| 
+@mc      CCTV-10 | @dzhttp://183.252.176.12//PLTV/88888888/224/3221225931/index.m3u8| 
+@mc      CCTV-11 | @dzhttp://183.207.249.10/PLTV/3/224/3221225552/index.m3u8| 
+@mc      CCTV-12 | @dzhttp://183.252.176.48//PLTV/88888888/224/3221225932/index.m3u8| 
+@mc      CCTV-13新闻 | @dzhttp://183.252.176.22//PLTV/88888888/224/3221225933/index.m3u8| 
+@mc     CCTV-少儿 | @dzhttp://live.aikan.miguvideo.com/wd_r2/ocn/cctv14hd/1200/01.m3u8| 
+@mc      CCTV-音乐 | @dzhttp://223.110.245.172//PLTV/3/224/3221225568/index.m3u8| }
